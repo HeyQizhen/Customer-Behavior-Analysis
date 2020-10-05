@@ -2,7 +2,7 @@
 ## Executive Summary:
 Siemens is a multinational conglomerate company involved in various industries. The project serves to analyze online customers’ visiting behavior through Amazon Web Service. By analyzing customers’ behavioral patterns and calculating statistics such as page conversion rate and top products of different regions, this project aims to facilitate further business decisions for the top management.
 ## Architecture
-
+![alt](https://github.com/HeyQizhen/Customer-Behavior-Analysis/blob/main/architecture.jpg)
 ## Data flow
 - Siemens sends us the data every morning in our Shared S3 Bucket.
 - The Data Pipeline kicks in at 1:00 pm.
